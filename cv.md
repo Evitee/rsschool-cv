@@ -18,6 +18,7 @@ I am an experienced business side employee. I'm service and quality-oriented per
 Completed Frontendmentor projects:
 -   [QR code component](https://github.com/Evitee/QR-code-component)
 -   [Profile card component](https://github.com/Evitee/profile-card-component-main)
+
 ### Education 
 Bachelor's degree in Entrepreneurship
 
@@ -42,7 +43,7 @@ Other:
 
 ### Languages
 
-Latvian - native
-English - advanced (C1)
-Russian - intermediate
-German - basic
+Latvian - native  
+English - advanced (C1)  
+Russian - intermediate  
+German - basic  
